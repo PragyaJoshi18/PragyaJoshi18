@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<b>Background</b>
+<b>Background</b> <br>
 📚 I have a strong background in data science, with experience in machine learning and artificial intelligence. I have written research papers and love discussing topics related to ML and AI.
 
 🎥 I also run a YouTube channel where I share videos to help people understand and keep up with the latest advancements in AI and ML.
