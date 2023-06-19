@@ -8,7 +8,7 @@
 
 💻 Currently, I am building a website that will serve as a valuable resource for data science enthusiasts, providing tutorials, articles, and resources on various topics in the field.
 <br>
-<b>Repository Contents</b>
+### Repository Contents <br>
 📂 This repository contains code examples, tutorials, and other resources that complement the content on my YouTube channel and website. It serves as a central hub for accessing the materials mentioned in my videos and articles.
 
 🔄 I regularly update the repository with new code samples, notebooks, and project templates, making it a valuable resource for anyone interested in data science and machine learning.
