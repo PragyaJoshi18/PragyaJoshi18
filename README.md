@@ -13,9 +13,9 @@ Repository Contents
 
 🔄 I regularly update the repository with new code samples, notebooks, and project templates, making it a valuable resource for anyone interested in data science and machine learning.
 
-Get Started
+<b>Get Started</b> <br>
 🔍 To get started, simply explore the repository and check out the different folders and files. Feel free to clone or download any code samples that catch your interest.
 
 💡 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to me. I'd love to hear from you!
 
-🌟 Thank you for visiting my GitHub repository! Happy coding! 🚀
+<b>🌟 Thank you for visiting my GitHub repository! Happy coding! 🚀</b>
