@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**PragyaJoshi18/PragyaJoshi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <b>Background</b>
 📚 I have a strong background in data science, with experience in machine learning and artificial intelligence. I have written research papers and love discussing topics related to ML and AI.
