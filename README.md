@@ -6,7 +6,7 @@
 
 🎥 I also run a <b> YouTube channel</b> where I share videos to help people understand and keep up with the latest advancements in <b>AI and ML.</b>
 
-💻 Currently, I am building a website that will serve as a valuable resource for data science enthusiasts, providing tutorials, articles, and resources on various topics in the field.
+💻 Currently, I am building a website that will serve as a valuable resource for data science enthusiasts, providing tutorials, articles and resources on various topics in the field.
 <br>
 ### Repository Contents <br>
 📂 This repository contains code examples, tutorials, and other resources that complement the content on my YouTube channel and website. It serves as a central hub for accessing the materials mentioned in my videos and articles.
